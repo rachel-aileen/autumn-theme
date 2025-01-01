@@ -1,0 +1,21 @@
+{
+  "name": "autumn-theme",
+  "displayName": "Autumn Theme",
+  "description": "A cozy, warm color theme inspired by fall foliage. Features carefully curated amber, burgundy, and golden accents perfect for both light and dark mode coding. Optimized for readability and reduced eye strain during long coding sessions. Supports all major programming languages with semantic highlighting. Perfect for developers who prefer natural, earthy tones and want a professional yet comfortable coding environment. Compatible with Visual Studio Code's built-in features and popular extensions. #darktheme #lighttheme #programming #developer #coding #productivity",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "autumn-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/autumn-theme-color-theme.json"
+      }
+    ]
+  }
+}
