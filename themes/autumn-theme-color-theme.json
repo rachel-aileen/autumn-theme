@@ -1,7 +1,7 @@
 {
 	"name": "autumn-theme",
 	"colors": {
-		"editor.background": "#263238",
+		"editor.background": "#FF5370",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
